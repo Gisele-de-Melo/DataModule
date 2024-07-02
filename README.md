@@ -1,4 +1,4 @@
-# DataModule
+# Data Module
  - Example of using Data Modules in Delphi.
  - Exemplo de utilização de Data Modules em Delphi.
 
